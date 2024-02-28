@@ -119,7 +119,7 @@ const contributors = [
   {
     image:"https://i.ibb.co/zFMB6fc/IMG-20231228-222127.jpg",
     name: "Kaustubh Dwivedi",
-    roll: "WebOps Team",
+    roll: "WebOps Teamgit",
     email:'ram.shivaay100@gmail.com',
     linkedin:"https://www.linkedin.com/in/kaustubh-dwivedi-kd/",
     github:'',
